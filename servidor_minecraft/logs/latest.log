@@ -1,0 +1,31 @@
+[05:28:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:28:10] [ServerMain/INFO]: No existing world data, creating new world
+[05:28:10] [ServerMain/INFO]: Loaded 1175 recipes
+[05:28:11] [ServerMain/INFO]: Loaded 1276 advancements
+[05:28:11] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[05:28:11] [Server thread/INFO]: Loading properties
+[05:28:11] [Server thread/INFO]: Default game type: SURVIVAL
+[05:28:11] [Server thread/INFO]: Generating keypair
+[05:28:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:28:11] [Server thread/INFO]: Using epoll channel type
+[05:28:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:28:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:28:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:28:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:28:11] [Server thread/INFO]: Preparing level "world"
+[05:28:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:28:17] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[05:28:17] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[05:28:18] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[05:28:18] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[05:28:19] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[05:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[05:28:20] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[05:28:20] [Worker-Main-2/INFO]: Preparing spawn area: 38%
+[05:28:21] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[05:28:21] [Worker-Main-3/INFO]: Preparing spawn area: 57%
+[05:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 75%
+[05:28:22] [Server thread/INFO]: Time elapsed: 5470 ms
+[05:28:22] [Server thread/INFO]: Done (10.841s)! For help, type "help"
+[05:33:39] [Server thread/INFO]: DELUXE1666[/127.204.176.37:60263] logged in with entity id 16 at (-6.5, 98.0, -9.5)
+[05:33:39] [Server thread/INFO]: DELUXE1666 joined the game
